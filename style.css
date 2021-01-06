@@ -1,5 +1,6 @@
 body{
     font-family: 'PT Sans Narrow', sans-serif;
+    margin: 0px;
 }
 
 .dada{
@@ -31,30 +32,68 @@ p{
 h3{
     font-size: 30px;
 }
-.b{
-    color: tomato;
+*{
+    padding: 20px;
+    margin: 5px;
+    box-sizing: border-box;
 }
-#m{
-    background-color: cyan;
+.d{
+    margin-top: 10%;
+    background: #F8F9FC;
+    justify-content: center;
+    float: left;
 }
-.ga{
+#n{
+    color: pink;
+}
+.d h1{
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.g{
+    display: flex;
+    width: auto;
     height: 400px;
-    width: 100%;
-    border: cyan;
+    justify-content: center;
     
 }
-.slo{
+.j{
+    background: white;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 370px;
+    padding: 20px;
+    height: 445px;
+    line-height: 20px;
+    position: relative;
+    justify-content: center;
     border-radius: 10px;
-    background-position-y: bottom;
-    float: left;
-    height: 90%;
-    width: 25%;
-.fa{
-    width: 25%;
-    float: right;
-    height: 90%;
 }
-section{
+.j img{
     width: 100%;
-    background-color: cyan;
+}
+.v img{
+    width: 700px;
+    height: 200px;
+    margin: 400px;
+
+}
+.lk img{
+    width: 800px;
+    height: 200px;
+    padding-top: 70px;
+    padding-left: 269px;
+    position: relative;
+}
+.lk h2{
+    color: rgb(255, 255, 255); 
+    position: absolute; 
+    left: 350px;
+    top:1840px
+}
+.lk{
+    background-image: url("fff.png");
+    width: 60%;
+    margin: 0px;
 }
