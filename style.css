@@ -92,8 +92,8 @@ h3{
     left: 350px;
     top:1840px
 }
-.lk{
-    background-image: url("fff.png");
-    width: 60%;
-    margin: 0px;
+.btn{
+    background-image: linear-gradient(yellow,orange,red);
+    border: none;
+    border-radius: 10px;
 }
